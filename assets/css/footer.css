@@ -115,6 +115,9 @@ color:var(--primary-color);
     
     grid-template-columns: 2fr 1fr;
     }
+    .icon-footer{
+      padding: 5rem;
+    }
     /* .gallery{
       margin-left: 1rem;
     } */
